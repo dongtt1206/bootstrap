@@ -97,10 +97,10 @@
     "popper.js": "^1.14.3"
   },
   "devDependencies": {
-    "@babel/cli": "7.0.0-beta.54",
-    "@babel/core": "7.0.0-beta.54",
-    "@babel/preset-env": "7.0.0-beta.54",
-    "autoprefixer": "^9.0.1",
+    "@babel/cli": "7.0.0-beta.55",
+    "@babel/core": "7.0.0-beta.55",
+    "@babel/preset-env": "7.0.0-beta.55",
+    "autoprefixer": "^9.0.2",
     "babel-eslint": "^8.2.6",
     "babel-plugin-istanbul": "^4.1.6",
     "broken-link-checker": "^0.7.8",
@@ -126,7 +126,7 @@
     "popper.js": "^1.14.3",
     "postcss-cli": "^6.0.0",
     "qunit": "^2.6.1",
-    "rollup": "^0.63.4",
+    "rollup": "^0.63.5",
     "rollup-plugin-babel": "4.0.0-beta.5",
     "rollup-plugin-node-resolve": "^3.3.0",
     "shelljs": "^0.8.2",
